@@ -1,6 +1,6 @@
 {
   "name": "koa-push",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Koa middleware for handling client-side pushstate routes.",
   "main": "lib/index.js",
   "scripts": {

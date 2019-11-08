@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/jmeyers91/koa-push.svg?branch=master)](https://travis-ci.com/jmeyers91/koa-push)
 
-Koa middleware for handling client-side pushstate routes. By default, a push state request is any `GET` request that has no file extension and doesn't begin with `/API/`.
+Koa middleware for handling client-side pushstate routes. By default, a push state request is any `GET` request that has no file extension and doesn't begin with `/api/`.
 
 ## Install
 
